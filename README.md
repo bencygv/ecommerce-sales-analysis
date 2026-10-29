@@ -98,7 +98,7 @@ The incomplete September 2018 period contains only one record and was excluded f
 ## Project Structure
 
 ecommerce-sales-analysis/
-- data/ – Raw Olist CSV datasets
+- data/ – Raw Olist CSV datasets (stored locally and excluded from Git)
 - sql/ – SQL exploration and transformation scripts
 - powerbi/ – Power BI dashboard file
 - images/ – Dashboard screenshots
